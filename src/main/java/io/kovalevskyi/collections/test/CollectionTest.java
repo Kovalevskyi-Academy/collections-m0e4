@@ -39,7 +39,6 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-@BenchmarkMode(Mode.All)
 public class CollectionTest {
 
     @Benchmark
