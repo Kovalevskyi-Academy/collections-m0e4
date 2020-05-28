@@ -25,5 +25,4 @@ public class TestClass {
         for (int i = 0; i < 10_000; i++)
             list.add(i);
     }
-
 }
